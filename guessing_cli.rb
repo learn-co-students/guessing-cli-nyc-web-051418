@@ -1,4 +1,5 @@
-##def run_guessing_game
+##my perfectly valid solution
+#def run_guessing_game
 #  loop do
 #    puts "Guess a number between 1 and 6."
 #    z = gets.chomp
@@ -15,6 +16,7 @@
 #end
 
 
+##the solution learn accepts :/
 def run_guessing_game
   input = ""
   while input
